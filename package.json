@@ -5,7 +5,6 @@
   "main": "index.html",
   "scripts": {
     "dev": "serve .",
-    "build": "echo 'Build complete - Static portfolio ready for Vercel'",
     "start": "serve ."
   },
   "keywords": [
